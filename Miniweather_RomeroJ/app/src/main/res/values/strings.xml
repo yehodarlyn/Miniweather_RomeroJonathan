@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Miniweather_RomeroJ</string>
+    <string name="snowy">Nevado</string>
+    <string name="windy">Ventoso</string>
+    <string name="stormy">Ventoso</string>
+    <string name="rainy">Lluvioso</string>
+    <string name="cloudy">Nublado</string>
+    <string name="sunny">Soleado</string>
+    <string name="good_morning">¡Buenos dias!</string>
+    <string name="good_afternoon">¡Buenas tardes!</string>
+    <string name="good_evening">¡Buenas noches!</string>
+
 </resources>
